@@ -9,8 +9,8 @@ O objetivo é criar um ambinte que tenha sua aprencia inspirada em uma pokedex e
 
 # Layouts
 
-![Mobile](https://github.com/DenisNascimento04/Fotos/blob/main/Screenshot_20230207-223058.jpg)
-![Mobile](https://github.com/DenisNascimento04/Fotos/blob/main/Screenshot_20230207-223107.jpg)
+![Mobile](https://github.com/DenisNascimento04/Fotos/blob/main/Screenshot_20230207-223058.png)
+![Mobile](https://github.com/DenisNascimento04/Fotos/blob/main/Screenshot_20230207-223107.png)
 
 # Tecnologias
 ## Front-end
