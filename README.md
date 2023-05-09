@@ -16,7 +16,6 @@ O objetivo é criar um ambinte que tenha sua aprencia inspirada em uma pokedex e
 ## Front-end
 - React Native
 - Expo
-- API
 
 ## API
 - PokeAPI
